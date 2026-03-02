@@ -128,30 +128,30 @@ Geonr_siste;GeoNamn_siste;KomNr;KommuneNamn;Geonr_LGG201;GeoNamn_LGG201;RHF;KOST
 030110;Grorud;0301;Oslo;OPT1;Akershus universitetssykehus;Helse Sør-Øst;Kostragr 13;2025;030110;Grorud;28228;1;LGG003;294;;;DPS_D50;Groruddalen
 030110;Grorud;0301;Oslo;OPT1;Akershus universitetssykehus;Helse Sør-Øst;Kostragr 13;2026;030110;Grorud;28366;1;LGG002;273;;;;
 030110;Grorud;0301;Oslo;OPT1;Akershus universitetssykehus;Helse Sør-Øst;Kostragr 13;2026;030110;Grorud;28366;1;LGG003;294;;;DPS_D50;Groruddalen
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2010;1504;Ålesund;42982;0,726992879251;LGG001;125;Helsefellesskap Møre og Romsdal;HFS13;;
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2010;1504;Ålesund;42982;0,726992879251;LGG002;125;;;;
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2010;1504;Ålesund;42982;0,726992879251;LGG003;129;;;DPS_D40;Sunnmøre
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2010;1523;Ørskog;2138;0,036161899768;LGG001;125;Helsefellesskap Møre og Romsdal;HFS13;;
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2010;1523;Ørskog;2138;0,036161899768;LGG002;125;;;;
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2010;1523;Ørskog;2138;0,036161899768;LGG003;129;;;DPS_D40;Sunnmøre
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2010;1529;Skodje;3944;0,066708387598;LGG001;125;Helsefellesskap Møre og Romsdal;HFS13;;
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2010;1529;Skodje;3944;0,066708387598;LGG002;125;;;;
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2010;1529;Skodje;3944;0,066708387598;LGG003;129;;;DPS_D40;Sunnmøre
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2010;1546;Sandøy;1320;0,02232633662;LGG001;125;Helsefellesskap Møre og Romsdal;HFS13;;
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2010;1546;Sandøy;1320;0,02232633662;LGG002;125;;;;
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2010;1546;Sandøy;1320;0,02232633662;LGG003;129;;;DPS_D40;Sunnmøre
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2011;1504;Ålesund;43670;0,727130440574;LGG001;125;Helsefellesskap Møre og Romsdal;HFS13;;
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2011;1504;Ålesund;43670;0,727130440574;LGG002;125;;;;
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2011;1504;Ålesund;43670;0,727130440574;LGG003;129;;;DPS_D40;Sunnmøre
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2011;1523;Ørskog;2120;0,035299210762;LGG001;125;Helsefellesskap Møre og Romsdal;HFS13;;
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2011;1523;Ørskog;2120;0,035299210762;LGG002;125;;;;
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2011;1523;Ørskog;2120;0,035299210762;LGG003;129;;;DPS_D40;Sunnmøre
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2011;1529;Skodje;4079;0,067917679576;LGG001;125;Helsefellesskap Møre og Romsdal;HFS13;;
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2011;1529;Skodje;4079;0,067917679576;LGG002;125;;;;
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2011;1529;Skodje;4079;0,067917679576;LGG003;129;;;DPS_D40;Sunnmøre
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2011;1546;Sandøy;1332;0,022178560724;LGG001;125;Helsefellesskap Møre og Romsdal;HFS13;;
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2011;1546;Sandøy;1332;0,022178560724;LGG002;125;;;;
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2011;1546;Sandøy;1332;0,022178560724;LGG003;129;;;DPS_D40;Sunnmøre
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2010;1504;Ålesund;42982;0,853088281994284;LGG001;125;Helsefellesskap Møre og Romsdal;HFS13;;
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2010;1504;Ålesund;42982;0,853088281994284;LGG002;125;;;;
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2010;1504;Ålesund;42982;0,853088281994284;LGG003;129;;;DPS_D40;Sunnmøre
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2010;1523;Ørskog;2138;0,0424341060654176;LGG001;125;Helsefellesskap Møre og Romsdal;HFS13;;
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2010;1523;Ørskog;2138;0,0424341060654176;LGG002;125;;;;
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2010;1523;Ørskog;2138;0,0424341060654176;LGG003;129;;;DPS_D40;Sunnmøre
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2010;1529;Skodje;3944;0,0782788186725945;LGG001;125;Helsefellesskap Møre og Romsdal;HFS13;;
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2010;1529;Skodje;3944;0,0782788186725945;LGG002;125;;;;
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2010;1529;Skodje;3944;0,0782788186725945;LGG003;129;;;DPS_D40;Sunnmøre
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2010;1546;Sandøy;1320;0,026198793267704;LGG001;125;Helsefellesskap Møre og Romsdal;HFS13;;
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2010;1546;Sandøy;1320;0,026198793267704;LGG002;125;;;;
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2010;1546;Sandøy;1320;0,026198793267704;LGG003;129;;;DPS_D40;Sunnmøre
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2011;1504;Ålesund;43670;0,852913029042402;LGG001;125;Helsefellesskap Møre og Romsdal;HFS13;;
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2011;1504;Ålesund;43670;0,852913029042402;LGG002;125;;;;
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2011;1504;Ålesund;43670;0,852913029042402;LGG003;129;;;DPS_D40;Sunnmøre
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2011;1523;Ørskog;2120;0,0414054412999746;LGG001;125;Helsefellesskap Møre og Romsdal;HFS13;;
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2011;1523;Ørskog;2120;0,0414054412999746;LGG002;125;;;;
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2011;1523;Ørskog;2120;0,0414054412999746;LGG003;129;;;DPS_D40;Sunnmøre
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2011;1529;Skodje;4079;0,0796664127653757;LGG001;125;Helsefellesskap Møre og Romsdal;HFS13;;
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2011;1529;Skodje;4079;0,0796664127653757;LGG002;125;;;;
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2011;1529;Skodje;4079;0,0796664127653757;LGG003;129;;;DPS_D40;Sunnmøre
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2011;1546;Sandøy;1332;0,0260151168922482;LGG001;125;Helsefellesskap Møre og Romsdal;HFS13;;
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2011;1546;Sandøy;1332;0,0260151168922482;LGG002;125;;;;
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2011;1546;Sandøy;1332;0,0260151168922482;LGG003;129;;;DPS_D40;Sunnmøre
 1804;Bodø;1804;Bodø;OPT13;Nordlandssykehuset HF;Helse Nord;Kostragr 11;2010;1804;Bodø;47282;1;LGG001;67;Helsefellesskapet Lofoten, Vesterålen og Salten;HFS17;;
 1804;Bodø;1804;Bodø;OPT13;Nordlandssykehuset HF;Helse Nord;Kostragr 11;2010;1804;Bodø;47282;1;LGG002;67;;;;
 1804;Bodø;1804;Bodø;OPT13;Nordlandssykehuset HF;Helse Nord;Kostragr 11;2010;1804;Bodø;47282;1;LGG003;67;;;DPS_D10;Salten
@@ -2308,60 +2308,60 @@ Geonr_siste;GeoNamn_siste;KomNr;KommuneNamn;Geonr_LGG201;GeoNamn_LGG201;RHF;KOST
 030116;Sentrum;0301;Oslo;OPT14;Oslo universitetssykehus;Helse Sør-Øst;Kostragr 13;2025;030116;Sentrum;1522;1;LGG003;314;;;DPS_D47;Lovisenberg
 030116;Sentrum;0301;Oslo;OPT14;Oslo universitetssykehus;Helse Sør-Øst;Kostragr 13;2026;030116;Sentrum;1486;1;LGG002;293;;;;
 030116;Sentrum;0301;Oslo;OPT14;Oslo universitetssykehus;Helse Sør-Øst;Kostragr 13;2026;030116;Sentrum;1486;1;LGG003;314;;;DPS_D47;Lovisenberg
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2012;1504;Ålesund;44416;0,727058438369;LGG001;125;Helsefellesskap Møre og Romsdal;HFS13;;
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2012;1504;Ålesund;44416;0,727058438369;LGG002;125;;;;
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2012;1504;Ålesund;44416;0,727058438369;LGG003;129;;;DPS_D40;Sunnmøre
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2012;1523;Ørskog;2202;0,036045179243;LGG001;125;Helsefellesskap Møre og Romsdal;HFS13;;
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2012;1523;Ørskog;2202;0,036045179243;LGG002;125;;;;
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2012;1523;Ørskog;2202;0,036045179243;LGG003;129;;;DPS_D40;Sunnmøre
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2012;1529;Skodje;4184;0,068489114421;LGG001;125;Helsefellesskap Møre og Romsdal;HFS13;;
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2012;1529;Skodje;4184;0,068489114421;LGG002;125;;;;
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2012;1529;Skodje;4184;0,068489114421;LGG003;129;;;DPS_D40;Sunnmøre
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2012;1546;Sandøy;1315;0,02152561794;LGG001;125;Helsefellesskap Møre og Romsdal;HFS13;;
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2012;1546;Sandøy;1315;0,02152561794;LGG002;125;;;;
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2012;1546;Sandøy;1315;0,02152561794;LGG003;129;;;DPS_D40;Sunnmøre
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2013;1504;Ålesund;45033;0,727594396781;LGG001;125;Helsefellesskap Møre og Romsdal;HFS13;;
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2013;1504;Ålesund;45033;0,727594396781;LGG002;125;;;;
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2013;1504;Ålesund;45033;0,727594396781;LGG003;129;;;DPS_D40;Sunnmøre
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2013;1523;Ørskog;2267;0,036627728499;LGG001;125;Helsefellesskap Møre og Romsdal;HFS13;;
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2013;1523;Ørskog;2267;0,036627728499;LGG002;125;;;;
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2013;1523;Ørskog;2267;0,036627728499;LGG003;129;;;DPS_D40;Sunnmøre
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2013;1529;Skodje;4282;0,069183914174;LGG001;125;Helsefellesskap Møre og Romsdal;HFS13;;
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2013;1529;Skodje;4282;0,069183914174;LGG002;125;;;;
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2013;1529;Skodje;4282;0,069183914174;LGG003;129;;;DPS_D40;Sunnmøre
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2013;1546;Sandøy;1291;0,020858578514;LGG001;125;Helsefellesskap Møre og Romsdal;HFS13;;
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2013;1546;Sandøy;1291;0,020858578514;LGG002;125;;;;
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2013;1546;Sandøy;1291;0,020858578514;LGG003;129;;;DPS_D40;Sunnmøre
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2014;1504;Ålesund;45747;0,728409018533;LGG001;125;Helsefellesskap Møre og Romsdal;HFS13;;
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2014;1504;Ålesund;45747;0,728409018533;LGG002;125;;;;
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2014;1504;Ålesund;45747;0,728409018533;LGG003;129;;;DPS_D40;Sunnmøre
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2014;1523;Ørskog;2301;0,036637793771;LGG001;125;Helsefellesskap Møre og Romsdal;HFS13;;
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2014;1523;Ørskog;2301;0,036637793771;LGG002;125;;;;
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2014;1523;Ørskog;2301;0,036637793771;LGG003;129;;;DPS_D40;Sunnmøre
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2014;1529;Skodje;4387;0,06985223871;LGG001;125;Helsefellesskap Møre og Romsdal;HFS13;;
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2014;1529;Skodje;4387;0,06985223871;LGG002;125;;;;
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2014;1529;Skodje;4387;0,06985223871;LGG003;129;;;DPS_D40;Sunnmøre
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2014;1546;Sandøy;1285;0,020460480224;LGG001;125;Helsefellesskap Møre og Romsdal;HFS13;;
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2014;1546;Sandøy;1285;0,020460480224;LGG002;125;;;;
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2014;1546;Sandøy;1285;0,020460480224;LGG003;129;;;DPS_D40;Sunnmøre
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2015;1504;Ålesund;46316;0,729880076272;LGG001;125;Helsefellesskap Møre og Romsdal;HFS13;;
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2015;1504;Ålesund;46316;0,729880076272;LGG002;125;;;;
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2015;1504;Ålesund;46316;0,729880076272;LGG003;129;;;DPS_D40;Sunnmøre
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2015;1523;Ørskog;2294;0,036150464093;LGG001;125;Helsefellesskap Møre og Romsdal;HFS13;;
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2015;1523;Ørskog;2294;0,036150464093;LGG002;125;;;;
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2015;1523;Ørskog;2294;0,036150464093;LGG003;129;;;DPS_D40;Sunnmøre
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2015;1529;Skodje;4465;0,07036260775;LGG001;125;Helsefellesskap Møre og Romsdal;HFS13;;
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2015;1529;Skodje;4465;0,07036260775;LGG002;125;;;;
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2015;1529;Skodje;4465;0,07036260775;LGG003;129;;;DPS_D40;Sunnmøre
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2015;1546;Sandøy;1262;0,019887482862;LGG001;125;Helsefellesskap Møre og Romsdal;HFS13;;
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2015;1546;Sandøy;1262;0,019887482862;LGG002;125;;;;
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2015;1546;Sandøy;1262;0,019887482862;LGG003;129;;;DPS_D40;Sunnmøre
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2016;1504;Ålesund;46747;0,728748031864;LGG001;125;Helsefellesskap Møre og Romsdal;HFS13;;
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2016;1504;Ålesund;46747;0,728748031864;LGG002;125;;;;
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2016;1504;Ålesund;46747;0,728748031864;LGG003;129;;;DPS_D40;Sunnmøre
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2016;1523;Ørskog;2310;0,036011037149;LGG001;125;Helsefellesskap Møre og Romsdal;HFS13;;
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2016;1523;Ørskog;2310;0,036011037149;LGG002;125;;;;
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2016;1523;Ørskog;2310;0,036011037149;LGG003;129;;;DPS_D40;Sunnmøre
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2012;1504;Ålesund;44416;0,852236314446342;LGG001;125;Helsefellesskap Møre og Romsdal;HFS13;;
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2012;1504;Ålesund;44416;0,852236314446342;LGG002;125;;;;
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2012;1504;Ålesund;44416;0,852236314446342;LGG003;129;;;DPS_D40;Sunnmøre
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2012;1523;Ørskog;2202;0,0422510888961375;LGG001;125;Helsefellesskap Møre og Romsdal;HFS13;;
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2012;1523;Ørskog;2202;0,0422510888961375;LGG002;125;;;;
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2012;1523;Ørskog;2202;0,0422510888961375;LGG003;129;;;DPS_D40;Sunnmøre
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2012;1529;Skodje;4184;0,0802809064220888;LGG001;125;Helsefellesskap Møre og Romsdal;HFS13;;
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2012;1529;Skodje;4184;0,0802809064220888;LGG002;125;;;;
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2012;1529;Skodje;4184;0,0802809064220888;LGG003;129;;;DPS_D40;Sunnmøre
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2012;1546;Sandøy;1315;0,0252316902354318;LGG001;125;Helsefellesskap Møre og Romsdal;HFS13;;
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2012;1546;Sandøy;1315;0,0252316902354318;LGG002;125;;;;
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2012;1546;Sandøy;1315;0,0252316902354318;LGG003;129;;;DPS_D40;Sunnmøre
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2013;1504;Ålesund;45033;0,851720159627787;LGG001;125;Helsefellesskap Møre og Romsdal;HFS13;;
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2013;1504;Ålesund;45033;0,851720159627787;LGG002;125;;;;
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2013;1504;Ålesund;45033;0,851720159627787;LGG003;129;;;DPS_D40;Sunnmøre
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2013;1523;Ørskog;2267;0,0428763262913018;LGG001;125;Helsefellesskap Møre og Romsdal;HFS13;;
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2013;1523;Ørskog;2267;0,0428763262913018;LGG002;125;;;;
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2013;1523;Ørskog;2267;0,0428763262913018;LGG003;129;;;DPS_D40;Sunnmøre
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2013;1529;Skodje;4282;0,0809865148563539;LGG001;125;Helsefellesskap Møre og Romsdal;HFS13;;
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2013;1529;Skodje;4282;0,0809865148563539;LGG002;125;;;;
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2013;1529;Skodje;4282;0,0809865148563539;LGG003;129;;;DPS_D40;Sunnmøre
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2013;1546;Sandøy;1291;0,024416999224557;LGG001;125;Helsefellesskap Møre og Romsdal;HFS13;;
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2013;1546;Sandøy;1291;0,024416999224557;LGG002;125;;;;
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2013;1546;Sandøy;1291;0,024416999224557;LGG003;129;;;DPS_D40;Sunnmøre
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2014;1504;Ålesund;45747;0,851582278481013;LGG001;125;Helsefellesskap Møre og Romsdal;HFS13;;
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2014;1504;Ålesund;45747;0,851582278481013;LGG002;125;;;;
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2014;1504;Ålesund;45747;0,851582278481013;LGG003;129;;;DPS_D40;Sunnmøre
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2014;1523;Ørskog;2301;0,0428332092330603;LGG001;125;Helsefellesskap Møre og Romsdal;HFS13;;
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2014;1523;Ørskog;2301;0,0428332092330603;LGG002;125;;;;
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2014;1523;Ørskog;2301;0,0428332092330603;LGG003;129;;;DPS_D40;Sunnmøre
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2014;1529;Skodje;4387;0,0816641846612063;LGG001;125;Helsefellesskap Møre og Romsdal;HFS13;;
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2014;1529;Skodje;4387;0,0816641846612063;LGG002;125;;;;
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2014;1529;Skodje;4387;0,0816641846612063;LGG003;129;;;DPS_D40;Sunnmøre
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2014;1546;Sandøy;1285;0,0239203276247208;LGG001;125;Helsefellesskap Møre og Romsdal;HFS13;;
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2014;1546;Sandøy;1285;0,0239203276247208;LGG002;125;;;;
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2014;1546;Sandøy;1285;0,0239203276247208;LGG003;129;;;DPS_D40;Sunnmøre
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2015;1504;Ålesund;46316;0,85238419493163;LGG001;125;Helsefellesskap Møre og Romsdal;HFS13;;
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2015;1504;Ålesund;46316;0,85238419493163;LGG002;125;;;;
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2015;1504;Ålesund;46316;0,85238419493163;LGG003;129;;;DPS_D40;Sunnmøre
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2015;1523;Ørskog;2294;0,0422180098275576;LGG001;125;Helsefellesskap Møre og Romsdal;HFS13;;
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2015;1523;Ørskog;2294;0,0422180098275576;LGG002;125;;;;
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2015;1523;Ørskog;2294;0,0422180098275576;LGG003;129;;;DPS_D40;Sunnmøre
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2015;1529;Skodje;4465;0,0821723687358522;LGG001;125;Helsefellesskap Møre og Romsdal;HFS13;;
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2015;1529;Skodje;4465;0,0821723687358522;LGG002;125;;;;
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2015;1529;Skodje;4465;0,0821723687358522;LGG003;129;;;DPS_D40;Sunnmøre
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2015;1546;Sandøy;1262;0,0232254265049598;LGG001;125;Helsefellesskap Møre og Romsdal;HFS13;;
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2015;1546;Sandøy;1262;0,0232254265049598;LGG002;125;;;;
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2015;1546;Sandøy;1262;0,0232254265049598;LGG003;129;;;DPS_D40;Sunnmøre
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2016;1504;Ålesund;46747;0,850765282908985;LGG001;125;Helsefellesskap Møre og Romsdal;HFS13;;
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2016;1504;Ålesund;46747;0,850765282908985;LGG002;125;;;;
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2016;1504;Ålesund;46747;0,850765282908985;LGG003;129;;;DPS_D40;Sunnmøre
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2016;1523;Ørskog;2310;0,0420405117658835;LGG001;125;Helsefellesskap Møre og Romsdal;HFS13;;
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2016;1523;Ørskog;2310;0,0420405117658835;LGG002;125;;;;
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2016;1523;Ørskog;2310;0,0420405117658835;LGG003;129;;;DPS_D40;Sunnmøre
 4215;Lillesand;4215;Lillesand;OPT16;Sørlandet sykehus;Helse Sør-Øst;Kostragr 7;2024;4215;Lillesand;11523;1;LGG002;371;;;;
 4215;Lillesand;4215;Lillesand;OPT16;Sørlandet sykehus;Helse Sør-Øst;Kostragr 7;2024;4215;Lillesand;11523;1;LGG003;392;;;DPS_D64;Østre Agder
 4215;Lillesand;4215;Lillesand;OPT16;Sørlandet sykehus;Helse Sør-Øst;Kostragr 7;2025;4215;Lillesand;11734;1;LGG001;356;Helsefellesskapet Agder;HFS08;;
@@ -2370,21 +2370,21 @@ Geonr_siste;GeoNamn_siste;KomNr;KommuneNamn;Geonr_LGG201;GeoNamn_LGG201;RHF;KOST
 4215;Lillesand;4215;Lillesand;OPT16;Sørlandet sykehus;Helse Sør-Øst;Kostragr 7;2026;4215;Lillesand;11822;1;LGG001;356;Helsefellesskapet Agder;HFS08;;
 4215;Lillesand;4215;Lillesand;OPT16;Sørlandet sykehus;Helse Sør-Øst;Kostragr 7;2026;4215;Lillesand;11822;1;LGG002;371;;;;
 4215;Lillesand;4215;Lillesand;OPT16;Sørlandet sykehus;Helse Sør-Øst;Kostragr 7;2026;4215;Lillesand;11822;1;LGG003;392;;;DPS_D64;Østre Agder
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2016;1529;Skodje;4620;0,072022074298;LGG001;125;Helsefellesskap Møre og Romsdal;HFS13;;
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2016;1529;Skodje;4620;0,072022074298;LGG002;125;;;;
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2016;1529;Skodje;4620;0,072022074298;LGG003;129;;;DPS_D40;Sunnmøre
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2016;1546;Sandøy;1270;0,019798275835;LGG001;125;Helsefellesskap Møre og Romsdal;HFS13;;
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2016;1546;Sandøy;1270;0,019798275835;LGG002;125;;;;
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2016;1546;Sandøy;1270;0,019798275835;LGG003;129;;;DPS_D40;Sunnmøre
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2017;1504;Ålesund;47199;0,729279975278;LGG001;125;Helsefellesskap Møre og Romsdal;HFS13;;
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2017;1504;Ålesund;47199;0,729279975278;LGG002;125;;;;
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2017;1504;Ålesund;47199;0,729279975278;LGG003;129;;;DPS_D40;Sunnmøre
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2017;1523;Ørskog;2296;0,035475896168;LGG001;125;Helsefellesskap Møre og Romsdal;HFS13;;
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2017;1523;Ørskog;2296;0,035475896168;LGG002;125;;;;
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2017;1523;Ørskog;2296;0,035475896168;LGG003;129;;;DPS_D40;Sunnmøre
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2017;1529;Skodje;4667;0,072110630407;LGG001;125;Helsefellesskap Møre og Romsdal;HFS13;;
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2017;1529;Skodje;4667;0,072110630407;LGG002;125;;;;
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2017;1529;Skodje;4667;0,072110630407;LGG003;129;;;DPS_D40;Sunnmøre
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2016;1529;Skodje;4620;0,084081023531767;LGG001;125;Helsefellesskap Møre og Romsdal;HFS13;;
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2016;1529;Skodje;4620;0,084081023531767;LGG002;125;;;;
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2016;1529;Skodje;4620;0,084081023531767;LGG003;129;;;DPS_D40;Sunnmøre
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2016;1546;Sandøy;1270;0,0231131817933645;LGG001;125;Helsefellesskap Møre og Romsdal;HFS13;;
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2016;1546;Sandøy;1270;0,0231131817933645;LGG002;125;;;;
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2016;1546;Sandøy;1270;0,0231131817933645;LGG003;129;;;DPS_D40;Sunnmøre
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2017;1504;Ålesund;47199;0,851844498989316;LGG001;125;Helsefellesskap Møre og Romsdal;HFS13;;
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2017;1504;Ålesund;47199;0,851844498989316;LGG002;125;;;;
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2017;1504;Ålesund;47199;0,851844498989316;LGG003;129;;;DPS_D40;Sunnmøre
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2017;1523;Ørskog;2296;0,0414380594859948;LGG001;125;Helsefellesskap Møre og Romsdal;HFS13;;
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2017;1523;Ørskog;2296;0,0414380594859948;LGG002;125;;;;
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2017;1523;Ørskog;2296;0,0414380594859948;LGG003;129;;;DPS_D40;Sunnmøre
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2017;1529;Skodje;4667;0,0842297141207046;LGG001;125;Helsefellesskap Møre og Romsdal;HFS13;;
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2017;1529;Skodje;4667;0,0842297141207046;LGG002;125;;;;
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2017;1529;Skodje;4667;0,0842297141207046;LGG003;129;;;DPS_D40;Sunnmøre
 1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2024;1508;Ålesund;58509;1;LGG001;125;Helsefellesskap Møre og Romsdal;HFS13;;
 1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2024;1508;Ålesund;58509;1;LGG002;125;;;;
 1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2024;1508;Ålesund;58509;1;LGG003;129;;;DPS_D40;Sunnmøre
@@ -2409,33 +2409,33 @@ Geonr_siste;GeoNamn_siste;KomNr;KommuneNamn;Geonr_LGG201;GeoNamn_LGG201;RHF;KOST
 1514;Sande;1514;Sande;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 4;2014;1514;Sande;2636;1;LGG001;140;Helsefellesskap Møre og Romsdal;HFS13;;
 1514;Sande;1514;Sande;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 4;2014;1514;Sande;2636;1;LGG002;140;;;;
 1514;Sande;1514;Sande;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 4;2014;1514;Sande;2636;1;LGG003;144;;;DPS_D41;Volda
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2017;1546;Sandøy;1246;0,019252163164;LGG001;125;Helsefellesskap Møre og Romsdal;HFS13;;
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2017;1546;Sandøy;1246;0,019252163164;LGG002;125;;;;
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2017;1546;Sandøy;1246;0,019252163164;LGG003;129;;;DPS_D40;Sunnmøre
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2018;1504;Ålesund;47510;0,730192884039;LGG001;125;Helsefellesskap Møre og Romsdal;HFS13;;
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2018;1504;Ålesund;47510;0,730192884039;LGG002;125;;;;
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2018;1504;Ålesund;47510;0,730192884039;LGG003;129;;;DPS_D40;Sunnmøre
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2018;1523;Ørskog;2267;0,034842080995;LGG001;125;Helsefellesskap Møre og Romsdal;HFS13;;
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2018;1523;Ørskog;2267;0,034842080995;LGG002;125;;;;
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2018;1523;Ørskog;2267;0,034842080995;LGG003;129;;;DPS_D40;Sunnmøre
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2018;1529;Skodje;4680;0,071928071928;LGG001;125;Helsefellesskap Møre og Romsdal;HFS13;;
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2018;1529;Skodje;4680;0,071928071928;LGG002;125;;;;
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2018;1529;Skodje;4680;0,071928071928;LGG003;129;;;DPS_D40;Sunnmøre
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2018;1546;Sandøy;1263;0,019411357872;LGG001;125;Helsefellesskap Møre og Romsdal;HFS13;;
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2018;1546;Sandøy;1263;0,019411357872;LGG002;125;;;;
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2018;1546;Sandøy;1263;0,019411357872;LGG003;129;;;DPS_D40;Sunnmøre
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2019;1504;Ålesund;47998;0,731308945195;LGG001;125;Helsefellesskap Møre og Romsdal;HFS13;;
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2019;1504;Ålesund;47998;0,731308945195;LGG002;125;;;;
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2019;1504;Ålesund;47998;0,731308945195;LGG003;129;;;DPS_D40;Sunnmøre
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2019;1523;Ørskog;2250;0,034281535203;LGG001;125;Helsefellesskap Møre og Romsdal;HFS13;;
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2019;1523;Ørskog;2250;0,034281535203;LGG002;125;;;;
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2019;1523;Ørskog;2250;0,034281535203;LGG003;129;;;DPS_D40;Sunnmøre
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2019;1529;Skodje;4764;0,072585437203;LGG001;125;Helsefellesskap Møre og Romsdal;HFS13;;
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2019;1529;Skodje;4764;0,072585437203;LGG002;125;;;;
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2019;1529;Skodje;4764;0,072585437203;LGG003;129;;;DPS_D40;Sunnmøre
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2019;1546;Sandøy;1238;0,01886246248;LGG001;125;Helsefellesskap Møre og Romsdal;HFS13;;
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2019;1546;Sandøy;1238;0,01886246248;LGG002;125;;;;
-1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2019;1546;Sandøy;1238;0,01886246248;LGG003;129;;;DPS_D40;Sunnmøre
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2017;1546;Sandøy;1246;0,022487727403985;LGG001;125;Helsefellesskap Møre og Romsdal;HFS13;;
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2017;1546;Sandøy;1246;0,022487727403985;LGG002;125;;;;
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2017;1546;Sandøy;1246;0,022487727403985;LGG003;129;;;DPS_D40;Sunnmøre
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2018;1504;Ålesund;47510;0,852656137832017;LGG001;125;Helsefellesskap Møre og Romsdal;HFS13;;
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2018;1504;Ålesund;47510;0,852656137832017;LGG002;125;;;;
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2018;1504;Ålesund;47510;0,852656137832017;LGG003;129;;;DPS_D40;Sunnmøre
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2018;1523;Ørskog;2267;0,0406855707106963;LGG001;125;Helsefellesskap Møre og Romsdal;HFS13;;
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2018;1523;Ørskog;2267;0,0406855707106963;LGG002;125;;;;
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2018;1523;Ørskog;2267;0,0406855707106963;LGG003;129;;;DPS_D40;Sunnmøre
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2018;1529;Skodje;4680;0,0839913854989232;LGG001;125;Helsefellesskap Møre og Romsdal;HFS13;;
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2018;1529;Skodje;4680;0,0839913854989232;LGG002;125;;;;
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2018;1529;Skodje;4680;0,0839913854989232;LGG003;129;;;DPS_D40;Sunnmøre
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2018;1546;Sandøy;1263;0,0226669059583632;LGG001;125;Helsefellesskap Møre og Romsdal;HFS13;;
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2018;1546;Sandøy;1263;0,0226669059583632;LGG002;125;;;;
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2018;1546;Sandøy;1263;0,0226669059583632;LGG003;129;;;DPS_D40;Sunnmøre
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2019;1504;Ålesund;47998;0,853297777777778;LGG001;125;Helsefellesskap Møre og Romsdal;HFS13;;
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2019;1504;Ålesund;47998;0,853297777777778;LGG002;125;;;;
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2019;1504;Ålesund;47998;0,853297777777778;LGG003;129;;;DPS_D40;Sunnmøre
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2019;1523;Ørskog;2250;0,04;LGG001;125;Helsefellesskap Møre og Romsdal;HFS13;;
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2019;1523;Ørskog;2250;0,04;LGG002;125;;;;
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2019;1523;Ørskog;2250;0,04;LGG003;129;;;DPS_D40;Sunnmøre
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2019;1529;Skodje;4764;0,0846933333333333;LGG001;125;Helsefellesskap Møre og Romsdal;HFS13;;
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2019;1529;Skodje;4764;0,0846933333333333;LGG002;125;;;;
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2019;1529;Skodje;4764;0,0846933333333333;LGG003;129;;;DPS_D40;Sunnmøre
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2019;1546;Sandøy;1238;0,0220088888888889;LGG001;125;Helsefellesskap Møre og Romsdal;HFS13;;
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2019;1546;Sandøy;1238;0,0220088888888889;LGG002;125;;;;
+1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2019;1546;Sandøy;1238;0,0220088888888889;LGG003;129;;;DPS_D40;Sunnmøre
 1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2020;1507;Ålesund;66258;1;LGG001;125;Helsefellesskap Møre og Romsdal;HFS13;;
 1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2020;1507;Ålesund;66258;1;LGG002;125;;;;
 1508;Ålesund;1508;Ålesund;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2020;1507;Ålesund;66258;1;LGG003;129;;;DPS_D40;Sunnmøre
@@ -5897,20 +5897,20 @@ NN16;NN-ANNONYMISERT:Sørlandet sykehus;NN16;NULL;OPT16;Sørlandet sykehus;Helse
 1580;Haram;1580;Haram;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2026;1580;Haram;9460;1;LGG001;125;Helsefellesskap Møre og Romsdal;HFS13;;
 1580;Haram;1580;Haram;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2026;1580;Haram;9460;1;LGG002;125;;;;
 1580;Haram;1580;Haram;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2026;1580;Haram;9460;1;LGG003;129;;;DPS_D40;Sunnmøre
-1580;Ålesund;1580;Haram;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2010;1534;Haram;8739;0,14781049676;LGG001;125;Helsefellesskap Møre og Romsdal;HFS13;;
-1580;Ålesund;1580;Haram;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2010;1534;Haram;8739;0,14781049676;LGG002;125;;;;
-1580;Ålesund;1580;Haram;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2010;1534;Haram;8739;0,14781049676;LGG003;129;;;DPS_D40;Sunnmøre
-1580;Ålesund;1580;Haram;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2011;1534;Haram;8857;0,147474108361;LGG001;125;Helsefellesskap Møre og Romsdal;HFS13;;
-1580;Ålesund;1580;Haram;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2011;1534;Haram;8857;0,147474108361;LGG002;125;;;;
-1580;Ålesund;1580;Haram;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2011;1534;Haram;8857;0,147474108361;LGG003;129;;;DPS_D40;Sunnmøre
-1580;Ålesund;1580;Haram;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2012;1534;Haram;8973;0,146881650024;LGG001;125;Helsefellesskap Møre og Romsdal;HFS13;;
-1580;Ålesund;1580;Haram;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2012;1534;Haram;8973;0,146881650024;LGG002;125;;;;
-1580;Ålesund;1580;Haram;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2012;1534;Haram;8973;0,146881650024;LGG003;129;;;DPS_D40;Sunnmøre
-1580;Ålesund;1580;Haram;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2013;1534;Haram;9020;0,14573538203;LGG001;125;Helsefellesskap Møre og Romsdal;HFS13;;
-1580;Ålesund;1580;Haram;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2013;1534;Haram;9020;0,14573538203;LGG002;125;;;;
-1580;Ålesund;1580;Haram;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2013;1534;Haram;9020;0,14573538203;LGG003;129;;;DPS_D40;Sunnmøre
-1580;Ålesund;1580;Haram;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2014;1534;Haram;9084;0,144640468759;LGG001;125;Helsefellesskap Møre og Romsdal;HFS13;;
-1580;Ålesund;1580;Haram;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2014;1534;Haram;9084;0,144640468759;LGG002;125;;;;
+1580;Haram;1580;Haram;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2010;1534;Haram;8739;1;LGG001;125;Helsefellesskap Møre og Romsdal;HFS13;;
+1580;Haram;1580;Haram;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2010;1534;Haram;8739;1;LGG002;125;;;;
+1580;Haram;1580;Haram;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2010;1534;Haram;8739;1;LGG003;129;;;DPS_D40;Sunnmøre
+1580;Haram;1580;Haram;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2011;1534;Haram;8857;1;LGG001;125;Helsefellesskap Møre og Romsdal;HFS13;;
+1580;Haram;1580;Haram;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2011;1534;Haram;8857;1;LGG002;125;;;;
+1580;Haram;1580;Haram;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2011;1534;Haram;8857;1;LGG003;129;;;DPS_D40;Sunnmøre
+1580;Haram;1580;Haram;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2012;1534;Haram;8973;1;LGG001;125;Helsefellesskap Møre og Romsdal;HFS13;;
+1580;Haram;1580;Haram;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2012;1534;Haram;8973;1;LGG002;125;;;;
+1580;Haram;1580;Haram;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2012;1534;Haram;8973;1;LGG003;129;;;DPS_D40;Sunnmøre
+1580;Haram;1580;Haram;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2013;1534;Haram;9020;1;LGG001;125;Helsefellesskap Møre og Romsdal;HFS13;;
+1580;Haram;1580;Haram;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2013;1534;Haram;9020;1;LGG002;125;;;;
+1580;Haram;1580;Haram;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2013;1534;Haram;9020;1;LGG003;129;;;DPS_D40;Sunnmøre
+1580;Haram;1580;Haram;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2014;1534;Haram;9084;1;LGG001;125;Helsefellesskap Møre og Romsdal;HFS13;;
+1580;Haram;1580;Haram;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2014;1534;Haram;9084;1;LGG002;125;;;;
 030104;St. Hanshaugen;0301;Oslo;OPT12;Lovisenberg;Helse Sør-Øst;Kostragr 13;2016;030104;St. Hanshaugen;37263;1;LGG003;315;;;DPS_D47;Lovisenberg
 030104;St. Hanshaugen;0301;Oslo;OPT12;Lovisenberg;Helse Sør-Øst;Kostragr 13;2017;030104;St. Hanshaugen;37849;1;LGG002;294;;;;
 030104;St. Hanshaugen;0301;Oslo;OPT12;Lovisenberg;Helse Sør-Øst;Kostragr 13;2017;030104;St. Hanshaugen;37849;1;LGG003;315;;;DPS_D47;Lovisenberg
@@ -6592,22 +6592,22 @@ NN16;NN-ANNONYMISERT:Sørlandet sykehus;NN16;NULL;OPT16;Sørlandet sykehus;Helse
 3442;Østre Toten;3442;Østre Toten;OPT11;Sykehuset Innlandet;Helse Sør-Øst;Kostragr 7;2015;0528;Østre Toten;14796;1;LGG001;244;Helsefellesskap Innlandet;HFS04;;
 3442;Østre Toten;3442;Østre Toten;OPT11;Sykehuset Innlandet;Helse Sør-Øst;Kostragr 7;2015;0528;Østre Toten;14796;1;LGG002;244;;;;
 3442;Østre Toten;3442;Østre Toten;OPT11;Sykehuset Innlandet;Helse Sør-Øst;Kostragr 7;2015;0528;Østre Toten;14796;1;LGG003;265;;;DPS_D55;Gjøvik
-1580;Ålesund;1580;Haram;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2014;1534;Haram;9084;0,144640468759;LGG003;129;;;DPS_D40;Sunnmøre
-1580;Ålesund;1580;Haram;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2015;1534;Haram;9120;0,143719369021;LGG001;125;Helsefellesskap Møre og Romsdal;HFS13;;
-1580;Ålesund;1580;Haram;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2015;1534;Haram;9120;0,143719369021;LGG002;125;;;;
-1580;Ålesund;1580;Haram;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2015;1534;Haram;9120;0,143719369021;LGG003;129;;;DPS_D40;Sunnmøre
-1580;Ålesund;1580;Haram;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2016;1534;Haram;9200;0,143420580853;LGG001;125;Helsefellesskap Møre og Romsdal;HFS13;;
-1580;Ålesund;1580;Haram;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2016;1534;Haram;9200;0,143420580853;LGG002;125;;;;
-1580;Ålesund;1580;Haram;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2016;1534;Haram;9200;0,143420580853;LGG003;129;;;DPS_D40;Sunnmøre
-1580;Ålesund;1580;Haram;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2017;1534;Haram;9312;0,143881334981;LGG001;125;Helsefellesskap Møre og Romsdal;HFS13;;
-1580;Ålesund;1580;Haram;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2017;1534;Haram;9312;0,143881334981;LGG002;125;;;;
-1580;Ålesund;1580;Haram;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2017;1534;Haram;9312;0,143881334981;LGG003;129;;;DPS_D40;Sunnmøre
-1580;Ålesund;1580;Haram;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2018;1534;Haram;9345;0,143625605164;LGG001;125;Helsefellesskap Møre og Romsdal;HFS13;;
-1580;Ålesund;1580;Haram;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2018;1534;Haram;9345;0,143625605164;LGG002;125;;;;
-1580;Ålesund;1580;Haram;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2018;1534;Haram;9345;0,143625605164;LGG003;129;;;DPS_D40;Sunnmøre
-1580;Ålesund;1580;Haram;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2019;1534;Haram;9383;0,142961619916;LGG001;125;Helsefellesskap Møre og Romsdal;HFS13;;
-1580;Ålesund;1580;Haram;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2019;1534;Haram;9383;0,142961619916;LGG002;125;;;;
-1580;Ålesund;1580;Haram;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2019;1534;Haram;9383;0,142961619916;LGG003;129;;;DPS_D40;Sunnmøre
+1580;Haram;1580;Haram;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2014;1534;Haram;9084;1;LGG003;129;;;DPS_D40;Sunnmøre
+1580;Haram;1580;Haram;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2015;1534;Haram;9120;1;LGG001;125;Helsefellesskap Møre og Romsdal;HFS13;;
+1580;Haram;1580;Haram;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2015;1534;Haram;9120;1;LGG002;125;;;;
+1580;Haram;1580;Haram;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2015;1534;Haram;9120;1;LGG003;129;;;DPS_D40;Sunnmøre
+1580;Haram;1580;Haram;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2016;1534;Haram;9200;1;LGG001;125;Helsefellesskap Møre og Romsdal;HFS13;;
+1580;Haram;1580;Haram;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2016;1534;Haram;9200;1;LGG002;125;;;;
+1580;Haram;1580;Haram;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2016;1534;Haram;9200;1;LGG003;129;;;DPS_D40;Sunnmøre
+1580;Haram;1580;Haram;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2017;1534;Haram;9312;1;LGG001;125;Helsefellesskap Møre og Romsdal;HFS13;;
+1580;Haram;1580;Haram;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2017;1534;Haram;9312;1;LGG002;125;;;;
+1580;Haram;1580;Haram;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2017;1534;Haram;9312;1;LGG003;129;;;DPS_D40;Sunnmøre
+1580;Haram;1580;Haram;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2018;1534;Haram;9345;1;LGG001;125;Helsefellesskap Møre og Romsdal;HFS13;;
+1580;Haram;1580;Haram;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2018;1534;Haram;9345;1;LGG002;125;;;;
+1580;Haram;1580;Haram;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2018;1534;Haram;9345;1;LGG003;129;;;DPS_D40;Sunnmøre
+1580;Haram;1580;Haram;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2019;1534;Haram;9383;1;LGG001;125;Helsefellesskap Møre og Romsdal;HFS13;;
+1580;Haram;1580;Haram;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2019;1534;Haram;9383;1;LGG002;125;;;;
+1580;Haram;1580;Haram;OPT9;Helse Møre og Romsdal HF;Helse Midt;Kostragr 11;2019;1534;Haram;9383;1;LGG003;129;;;DPS_D40;Sunnmøre
 3450;Etnedal;3450;Etnedal;OPT11;Sykehuset Innlandet;Helse Sør-Øst;Kostragr 14;2014;0541;Etnedal;1408;1;LGG001;228;Helsefellesskap Innlandet;HFS04;;
 3450;Etnedal;3450;Etnedal;OPT11;Sykehuset Innlandet;Helse Sør-Øst;Kostragr 14;2014;0541;Etnedal;1408;1;LGG002;228;;;;
 3450;Etnedal;3450;Etnedal;OPT11;Sykehuset Innlandet;Helse Sør-Øst;Kostragr 14;2014;0541;Etnedal;1408;1;LGG003;249;;;DPS_D55;Gjøvik
